@@ -31,10 +31,11 @@ Social :
 - [Intro In Computer Science]()
 
 - [C Programming]()
+Books  :  The C Programming Language" by Brian Kernighan and Dennis Ritchie, and "Programming in C" by Stephen Kochan.
 
-- [AVR Microcontroller Interfacing]()
+- [AVR Microcontroller Interfacing](https://egfwd.com/specializtion/professional-embedded-systems/)
 
-- [ARM Microcontroller Interfacing]()
+- [ARM Microcontroller Interfacing](https://egfwd.com/specializtion/advanced-embedded-systems/)
 
 - [BootLoader]()
 
