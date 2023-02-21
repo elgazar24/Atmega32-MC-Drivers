@@ -3,9 +3,9 @@
 
 AVR Atmega32 MicroController Drivers 
 
-All the libraries were developed by **Mohamed ElGazar** only to support everyone who is trying to learn Embedded systems .
+- All the libraries were developed by **Mohamed ElGazar** only to support everyone who is trying to learn Embedded systems .
 
-Created To Anyone who wants to use Atmega32 microcontroller for study and personal purposes can use this driver to save time and effort
+- Created To Anyone who wants to use Atmega32 microcontroller for study and personal purposes can use this driver to save time and effort
 
 **This Repository was Uploaded for Mansoura Robotics Hackathon 5.0.0**
 
